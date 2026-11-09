@@ -1,0 +1,4 @@
+measure,last_12m,prior_12m,ratio,ci_low,ci_high,clear_of_chance
+events,782.0,754.0,1.037,0.938,1.146,False
+reported jobs,412458.0,380455.0,1.084,0.73,1.62,False
+median cut,199.0,173.5,1.147,0.8,1.393,False

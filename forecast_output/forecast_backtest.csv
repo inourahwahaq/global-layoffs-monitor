@@ -1,0 +1,6 @@
+model,mae,gain_vs_average,gain_low,gain_high
+Same month last year,9.28,0.04,-1.11,1.21
+Last 12 month average,9.32,0.0,0.0,0.0
+Damped trend,11.95,-2.63,-4.59,-0.95
+SARIMA,13.57,-4.25,-7.35,-1.73
+Holt-Winters,15.75,-6.43,-9.22,-4.1

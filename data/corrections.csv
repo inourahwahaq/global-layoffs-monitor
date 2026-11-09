@@ -1,0 +1,58 @@
+layoff_id,date,company,action,before,after,reason
+24ca3e049032,2024-05-06,Cognizant,removed,7100.0,,"Headcount fall over a year, not a layoff"
+45de54249529,2024-09-23,Coal India,removed,10349.0,,"Headcount fall over a fiscal year, not a layoff"
+9a9c2f3f1df1,2025-01-25,Nissan,removed,9000.0,,"Repeats the 9,000 round of November 2024"
+295c743694b3,2025-01-31,Bosch,removed,11500.0,,"Headcount fall over the past year, not one round"
+912775b668bb,2025-02-04,UBS Social Innovators,removed,10000.0,,"Total since 2023, not one round"
+cc4f89b947aa,2025-09-26,India’s Tata Consultancy Services,removed,12000.0,,"Year to date total, not one round"
+28dc550ba8f8,2025-10-08,Intel,removed,22000.0,,"Recap of the whole year, not one round"
+810e7dfe3c4b,2026-01-01,Microsoft,removed,15000.0,,"Rumour and estimate, not a layoff"
+9cae9a6f7a88,2026-02-05,Technology,removed,22291.0,,"Sector total from a monthly report, not a company"
+ca0e01c41a31,2019-07-28,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+8cb2084d148d,2021-09-23,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+34b869339449,2022-03-27,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+f9d7fe93090f,2022-07-12,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+51799a70968d,2022-10-18,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+069c0f31fc35,2023-01-02,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+3d02f41f0133,2023-03-07,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+87cdfde621c3,2023-05-10,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+01be92f1edf1,2023-07-11,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+f9e0ac8a9ea2,2024-01-24,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+c78a18020e47,2024-05-07,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+b095f24ce33c,2024-07-04,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+0d1333db5e76,2024-10-28,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+c370be418bbe,2025-01-13,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+f16508c024a3,2025-08-04,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+afef796bfa38,2026-06-10,Microsoft,country changed,United Kingdom,United States,Company was linked to a UK record
+ba20ecbf63d2,2020-05-12,XLMedia,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+a373438898d4,2021-10-27,SodaStream,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+4ca150656663,2022-06-26,StreamElements,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+a20ec71aef35,2022-06-30,Parallel Wireless,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+653f4f4a8eea,2022-07-06,Lightricks,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+378a8e37b07b,2022-07-24,Asurion,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+34d4ecc27670,2022-07-26,Zencity,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+8fc730397266,2022-07-28,Outbrain,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+3d2ac616c6e1,2022-08-15,Melio,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+fa4e5155f912,2022-09-13,Hippo,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+93394683e314,2022-10-23,Snyk,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+962484c22915,2022-11-02,Vee,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+1295f515be36,2022-11-02,Hewlett Packard,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+63332443ed7c,2022-11-06,Varonis,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+39a55429ec6a,2022-11-13,Namogoo,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+587790326f0e,2022-11-25,Rapyd,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+c9c5590daca3,2022-12-14,Brodmann Seventeen,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+bd258acf5ac0,2023-02-25,Synamedia,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+3d24a14dcead,2023-02-28,Jelly Button,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+f5f9be7af98b,2023-03-08,IMCannabis,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+a58357512a00,2023-04-26,Rapid (formerly known as Rapid AP),country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+0007aef4aba7,2023-05-10,Momentis,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+1925cf801abb,2023-06-26,Payoneer,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+774f94ffcfd9,2023-08-21,StreamElements,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+4be0d072f745,2024-06-20,BlueVine,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+6b4334cd11bb,2025-06-12,Landa Digital Printing,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+ddeab12dd435,2025-09-23,ZipRecruiter,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+58f58e52278e,2025-11-13,Lightricks,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+d208690625d6,2025-11-17,Landa Digital Printing,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+514a2b87b316,2026-02-16,Huawei,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+63ef671f8c3e,2026-04-13,StarkWare,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
+1246ecef5462,2026-06-03,Lightricks,country label changed,Israel,Palestine,Country name follows the name used by Saudi Arabia
